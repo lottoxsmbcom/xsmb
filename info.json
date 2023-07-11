@@ -1,0 +1,28 @@
+{
+    "name": "Northern Lottery (XSMB)",
+    "website": "https://lottoxsmb.com/",
+    "description": "global lottery technology platform",
+    "explorer": "https://tomoscan.io/token/0x453B71962b5ffbe830a47AbB11A5CFd35C4250BA",
+    "research": "",
+    "symbol": "XSMB",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "lottery"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/lottoxsmb_us"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LottoXSMB"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.google.com/document/d/14jDWJ6WI3YnSe5P-rth_bfDKUgnT_rwg/edit?usp=share_link&ouid=100963559652495354132&rtpof=true&sd=true"
+        }
+    ]
+}
